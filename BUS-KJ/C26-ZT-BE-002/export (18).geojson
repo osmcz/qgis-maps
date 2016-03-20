@@ -1,0 +1,7558 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-04T16:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26558382",
+      "properties": {
+        "@id": "way/26558382",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0710336,
+            49.9253376
+          ],
+          [
+            14.0709693,
+            49.9257975
+          ],
+          [
+            14.0707542,
+            49.9261728
+          ],
+          [
+            14.0704214,
+            49.9265014
+          ],
+          [
+            14.0695305,
+            49.9269457
+          ],
+          [
+            14.0687213,
+            49.9273342
+          ],
+          [
+            14.0685731,
+            49.9274503
+          ],
+          [
+            14.0681376,
+            49.9279299
+          ],
+          [
+            14.0679578,
+            49.9280628
+          ],
+          [
+            14.0674511,
+            49.9283035
+          ],
+          [
+            14.0671261,
+            49.9284102
+          ],
+          [
+            14.0669727,
+            49.9284912
+          ],
+          [
+            14.0663457,
+            49.9289067
+          ],
+          [
+            14.0659572,
+            49.9290747
+          ],
+          [
+            14.0658194,
+            49.9291425
+          ],
+          [
+            14.065702,
+            49.929249
+          ],
+          [
+            14.0656512,
+            49.9293045
+          ],
+          [
+            14.0653057,
+            49.9294566
+          ],
+          [
+            14.0649737,
+            49.9296165
+          ],
+          [
+            14.0647292,
+            49.9296829
+          ],
+          [
+            14.0642617,
+            49.9297461
+          ],
+          [
+            14.0620433,
+            49.9298637
+          ],
+          [
+            14.0607117,
+            49.9299405
+          ],
+          [
+            14.0600588,
+            49.9299375
+          ],
+          [
+            14.0593045,
+            49.9299087
+          ],
+          [
+            14.0592206,
+            49.9299035
+          ],
+          [
+            14.0581844,
+            49.9299709
+          ],
+          [
+            14.0576565,
+            49.9301427
+          ],
+          [
+            14.0571249,
+            49.9303157
+          ],
+          [
+            14.0561353,
+            49.9303232
+          ],
+          [
+            14.0556464,
+            49.9301883
+          ],
+          [
+            14.052328,
+            49.9296523
+          ],
+          [
+            14.0489869,
+            49.9291465
+          ],
+          [
+            14.0486828,
+            49.9291927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594186",
+      "properties": {
+        "@id": "way/400594186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1464751,
+            49.8755521
+          ],
+          [
+            14.1464442,
+            49.8776646
+          ],
+          [
+            14.1477254,
+            49.8823157
+          ],
+          [
+            14.1478916,
+            49.8824921
+          ],
+          [
+            14.14807,
+            49.8825624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594191",
+      "properties": {
+        "@id": "way/400594191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1656088,
+            49.8816574
+          ],
+          [
+            14.1655307,
+            49.8816339
+          ],
+          [
+            14.1644089,
+            49.8814451
+          ],
+          [
+            14.1641647,
+            49.8813847
+          ],
+          [
+            14.163949,
+            49.881316
+          ],
+          [
+            14.1638842,
+            49.8812986
+          ],
+          [
+            14.1637799,
+            49.8812596
+          ],
+          [
+            14.1633219,
+            49.8810578
+          ],
+          [
+            14.1632439,
+            49.8810326
+          ],
+          [
+            14.1601637,
+            49.8800371
+          ],
+          [
+            14.1598011,
+            49.8799129
+          ],
+          [
+            14.1594182,
+            49.8796831
+          ],
+          [
+            14.1592164,
+            49.8794955
+          ],
+          [
+            14.1590895,
+            49.8794005
+          ],
+          [
+            14.1586454,
+            49.8791917
+          ],
+          [
+            14.1578217,
+            49.8790092
+          ],
+          [
+            14.1566879,
+            49.8786981
+          ],
+          [
+            14.1556722,
+            49.8783779
+          ],
+          [
+            14.1550436,
+            49.8781099
+          ],
+          [
+            14.1542999,
+            49.8776516
+          ],
+          [
+            14.1538121,
+            49.877341
+          ],
+          [
+            14.1532657,
+            49.8770677
+          ],
+          [
+            14.1522017,
+            49.87672
+          ],
+          [
+            14.1510202,
+            49.8763781
+          ],
+          [
+            14.1495833,
+            49.8759834
+          ],
+          [
+            14.1484836,
+            49.875781
+          ],
+          [
+            14.1478275,
+            49.8756797
+          ],
+          [
+            14.1471461,
+            49.875639
+          ],
+          [
+            14.1464751,
+            49.8755521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43100706",
+      "properties": {
+        "@id": "way/43100706",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1429206,
+            49.9062766
+          ],
+          [
+            14.1425609,
+            49.9062741
+          ],
+          [
+            14.1420474,
+            49.9062493
+          ],
+          [
+            14.140648,
+            49.9062203
+          ],
+          [
+            14.1391753,
+            49.9062228
+          ],
+          [
+            14.1382312,
+            49.9061233
+          ],
+          [
+            14.1370639,
+            49.9058746
+          ],
+          [
+            14.1348924,
+            49.9054655
+          ],
+          [
+            14.1341053,
+            49.905428
+          ],
+          [
+            14.132738,
+            49.9055926
+          ],
+          [
+            14.1311072,
+            49.9056921
+          ],
+          [
+            14.1285752,
+            49.9056479
+          ],
+          [
+            14.1275538,
+            49.9057585
+          ],
+          [
+            14.1263093,
+            49.9057972
+          ],
+          [
+            14.1257857,
+            49.9057474
+          ],
+          [
+            14.1244725,
+            49.905471
+          ],
+          [
+            14.123434,
+            49.9053494
+          ],
+          [
+            14.12261,
+            49.9055926
+          ],
+          [
+            14.1218804,
+            49.9057308
+          ],
+          [
+            14.1211766,
+            49.9059685
+          ],
+          [
+            14.1205586,
+            49.9061012
+          ],
+          [
+            14.1201638,
+            49.9063665
+          ],
+          [
+            14.1195973,
+            49.9068972
+          ],
+          [
+            14.1193656,
+            49.9070188
+          ],
+          [
+            14.1189279,
+            49.9070907
+          ],
+          [
+            14.1170911,
+            49.9070354
+          ],
+          [
+            14.1164299,
+            49.9070749
+          ],
+          [
+            14.1162585,
+            49.9070851
+          ],
+          [
+            14.1156531,
+            49.9071149
+          ],
+          [
+            14.1140784,
+            49.9071791
+          ],
+          [
+            14.112791,
+            49.9072068
+          ],
+          [
+            14.1120786,
+            49.9071128
+          ],
+          [
+            14.1114692,
+            49.9070354
+          ],
+          [
+            14.1089372,
+            49.9069248
+          ],
+          [
+            14.1070091,
+            49.90683
+          ],
+          [
+            14.1060533,
+            49.9068364
+          ],
+          [
+            14.1053666,
+            49.9069635
+          ],
+          [
+            14.1048345,
+            49.9071128
+          ],
+          [
+            14.1043796,
+            49.9074555
+          ],
+          [
+            14.1038903,
+            49.9076821
+          ],
+          [
+            14.1033925,
+            49.9078977
+          ],
+          [
+            14.1025771,
+            49.9081078
+          ],
+          [
+            14.1015729,
+            49.9083344
+          ],
+          [
+            14.1010236,
+            49.9085002
+          ],
+          [
+            14.100809,
+            49.9086716
+          ],
+          [
+            14.1007403,
+            49.9088816
+          ],
+          [
+            14.1008022,
+            49.9094236
+          ],
+          [
+            14.1007382,
+            49.90959
+          ],
+          [
+            14.1006288,
+            49.9096831
+          ],
+          [
+            14.0980624,
+            49.9104404
+          ],
+          [
+            14.0979207,
+            49.9104779
+          ],
+          [
+            14.0961827,
+            49.9109378
+          ],
+          [
+            14.0941314,
+            49.9115403
+          ],
+          [
+            14.0939597,
+            49.9116177
+          ],
+          [
+            14.0937108,
+            49.9118056
+          ],
+          [
+            14.092892,
+            49.9126203
+          ],
+          [
+            14.0923118,
+            49.9130824
+          ],
+          [
+            14.0914569,
+            49.9135217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594165",
+      "properties": {
+        "@id": "way/400594165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0754289,
+            49.9180079
+          ],
+          [
+            14.0745468,
+            49.9183413
+          ],
+          [
+            14.0738148,
+            49.9186769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23515053",
+      "properties": {
+        "@id": "way/23515053",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0738148,
+            49.9186769
+          ],
+          [
+            14.073199,
+            49.9187937
+          ],
+          [
+            14.0700473,
+            49.9190678
+          ],
+          [
+            14.0680699,
+            49.9191923
+          ],
+          [
+            14.0675784,
+            49.9192679
+          ],
+          [
+            14.0671326,
+            49.9193573
+          ],
+          [
+            14.0670832,
+            49.9193731
+          ],
+          [
+            14.0670369,
+            49.919388
+          ],
+          [
+            14.0668791,
+            49.9194386
+          ],
+          [
+            14.0666047,
+            49.919543
+          ],
+          [
+            14.0664059,
+            49.9197322
+          ],
+          [
+            14.0662393,
+            49.9201445
+          ],
+          [
+            14.0660956,
+            49.9204787
+          ],
+          [
+            14.066084,
+            49.9205024
+          ],
+          [
+            14.0660332,
+            49.9206223
+          ],
+          [
+            14.0660056,
+            49.9207619
+          ],
+          [
+            14.0659623,
+            49.9208353
+          ],
+          [
+            14.0659007,
+            49.9208925
+          ],
+          [
+            14.0658228,
+            49.9209362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219843096",
+      "properties": {
+        "@id": "way/219843096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0782214,
+            49.9168064
+          ],
+          [
+            14.0777776,
+            49.917074
+          ],
+          [
+            14.0776004,
+            49.9171833
+          ],
+          [
+            14.0772028,
+            49.9173541
+          ],
+          [
+            14.0763173,
+            49.9176742
+          ],
+          [
+            14.0759311,
+            49.9178167
+          ],
+          [
+            14.0754289,
+            49.9180079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594168",
+      "properties": {
+        "@id": "way/400594168",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0710336,
+            49.9253376
+          ],
+          [
+            14.0708846,
+            49.9252445
+          ],
+          [
+            14.0706353,
+            49.9250693
+          ],
+          [
+            14.0705554,
+            49.9250203
+          ],
+          [
+            14.0703728,
+            49.9248864
+          ],
+          [
+            14.0698503,
+            49.9244667
+          ],
+          [
+            14.0697336,
+            49.9243785
+          ],
+          [
+            14.0696626,
+            49.9242871
+          ],
+          [
+            14.0694774,
+            49.9240095
+          ],
+          [
+            14.069447,
+            49.9239638
+          ],
+          [
+            14.0692542,
+            49.92382
+          ],
+          [
+            14.0690284,
+            49.9236845
+          ],
+          [
+            14.06879,
+            49.9235555
+          ],
+          [
+            14.0685693,
+            49.923433
+          ],
+          [
+            14.0684425,
+            49.9233334
+          ],
+          [
+            14.0683309,
+            49.9232207
+          ],
+          [
+            14.0682091,
+            49.9230754
+          ],
+          [
+            14.0681407,
+            49.9229611
+          ],
+          [
+            14.0681153,
+            49.9228451
+          ],
+          [
+            14.0680874,
+            49.9225806
+          ],
+          [
+            14.0680392,
+            49.9223634
+          ],
+          [
+            14.0679707,
+            49.9222327
+          ],
+          [
+            14.067887,
+            49.9221413
+          ],
+          [
+            14.0677297,
+            49.9220351
+          ],
+          [
+            14.0675243,
+            49.9219731
+          ],
+          [
+            14.0673061,
+            49.9219094
+          ],
+          [
+            14.0669297,
+            49.9218304
+          ],
+          [
+            14.0667735,
+            49.9217951
+          ],
+          [
+            14.0666517,
+            49.9217461
+          ],
+          [
+            14.0665934,
+            49.9217183
+          ],
+          [
+            14.0665122,
+            49.9216171
+          ],
+          [
+            14.0664234,
+            49.9214717
+          ],
+          [
+            14.0663296,
+            49.9213149
+          ],
+          [
+            14.0662408,
+            49.9212268
+          ],
+          [
+            14.0661652,
+            49.9211847
+          ],
+          [
+            14.0660941,
+            49.921156
+          ],
+          [
+            14.0659574,
+            49.9210875
+          ],
+          [
+            14.0658764,
+            49.9210195
+          ],
+          [
+            14.0658228,
+            49.9209362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158945027",
+      "properties": {
+        "@id": "way/158945027",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0867928,
+            49.9148344
+          ],
+          [
+            14.0857972,
+            49.9150389
+          ],
+          [
+            14.085205,
+            49.9152102
+          ],
+          [
+            14.0834975,
+            49.9158063
+          ],
+          [
+            14.0828516,
+            49.915906
+          ],
+          [
+            14.0823396,
+            49.9159776
+          ],
+          [
+            14.080983,
+            49.9161004
+          ],
+          [
+            14.0797464,
+            49.9162636
+          ],
+          [
+            14.0791812,
+            49.9163768
+          ],
+          [
+            14.0787408,
+            49.9165305
+          ],
+          [
+            14.0782214,
+            49.9168064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158945028",
+      "properties": {
+        "@id": "way/158945028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0914569,
+            49.9135217
+          ],
+          [
+            14.0913762,
+            49.9135632
+          ],
+          [
+            14.0904492,
+            49.9139059
+          ],
+          [
+            14.0867928,
+            49.9148344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255408",
+      "properties": {
+        "@id": "way/226255408",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.14807,
+            49.8825624
+          ],
+          [
+            14.1482014,
+            49.8826025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26558392",
+      "properties": {
+        "@id": "way/26558392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.148598,
+            49.8884445
+          ],
+          [
+            14.1488948,
+            49.8885103
+          ],
+          [
+            14.1501428,
+            49.8887706
+          ],
+          [
+            14.1507681,
+            49.889119
+          ],
+          [
+            14.1522384,
+            49.8898376
+          ],
+          [
+            14.152563,
+            49.8900375
+          ],
+          [
+            14.1527576,
+            49.8901948
+          ],
+          [
+            14.1529262,
+            49.8903528
+          ],
+          [
+            14.1531553,
+            49.8906144
+          ],
+          [
+            14.1533741,
+            49.8909055
+          ],
+          [
+            14.153482,
+            49.8909775
+          ],
+          [
+            14.1543042,
+            49.8915257
+          ],
+          [
+            14.1549796,
+            49.8918639
+          ],
+          [
+            14.1556345,
+            49.892237
+          ],
+          [
+            14.1559591,
+            49.8924106
+          ],
+          [
+            14.1562836,
+            49.8927033
+          ],
+          [
+            14.1566474,
+            49.8930971
+          ],
+          [
+            14.1569829,
+            49.8933347
+          ],
+          [
+            14.1573535,
+            49.8935508
+          ],
+          [
+            14.1581426,
+            49.8939176
+          ],
+          [
+            14.1592581,
+            49.8942305
+          ],
+          [
+            14.1595896,
+            49.8943461
+          ],
+          [
+            14.1597669,
+            49.8944507
+          ],
+          [
+            14.1600532,
+            49.894698
+          ],
+          [
+            14.1602048,
+            49.8949593
+          ],
+          [
+            14.1602145,
+            49.8949794
+          ],
+          [
+            14.1602909,
+            49.8951378
+          ],
+          [
+            14.1603114,
+            49.8952565
+          ],
+          [
+            14.1603215,
+            49.8953149
+          ],
+          [
+            14.1603104,
+            49.8954794
+          ],
+          [
+            14.160268,
+            49.8956074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255406",
+      "properties": {
+        "@id": "way/226255406",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1482014,
+            49.8826025
+          ],
+          [
+            14.1494956,
+            49.882908
+          ],
+          [
+            14.1497205,
+            49.8830593
+          ],
+          [
+            14.1498379,
+            49.8833051
+          ],
+          [
+            14.1499748,
+            49.884912
+          ],
+          [
+            14.1499063,
+            49.8852838
+          ],
+          [
+            14.1497596,
+            49.8857816
+          ],
+          [
+            14.1495125,
+            49.8863389
+          ],
+          [
+            14.1492689,
+            49.8868882
+          ],
+          [
+            14.1491333,
+            49.8871938
+          ],
+          [
+            14.1490957,
+            49.8872787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255407",
+      "properties": {
+        "@id": "way/226255407",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1490957,
+            49.8872787
+          ],
+          [
+            14.1490241,
+            49.8874396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594173",
+      "properties": {
+        "@id": "way/400594173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1490241,
+            49.8874396
+          ],
+          [
+            14.1488275,
+            49.8878756
+          ],
+          [
+            14.1486128,
+            49.8883954
+          ],
+          [
+            14.148598,
+            49.8884445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174608158",
+      "properties": {
+        "@id": "way/174608158",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.152687,
+            49.9031264
+          ],
+          [
+            14.1528154,
+            49.9030616
+          ],
+          [
+            14.1532134,
+            49.902874
+          ],
+          [
+            14.1536656,
+            49.9027133
+          ],
+          [
+            14.1539582,
+            49.9026632
+          ],
+          [
+            14.1551382,
+            49.9026783
+          ],
+          [
+            14.1558494,
+            49.9026814
+          ],
+          [
+            14.1570796,
+            49.902624
+          ],
+          [
+            14.157895,
+            49.9024527
+          ],
+          [
+            14.158616,
+            49.902121
+          ],
+          [
+            14.1595312,
+            49.9016819
+          ],
+          [
+            14.1598219,
+            49.901572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23243845",
+      "properties": {
+        "@id": "way/23243845",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1473904,
+            49.904942
+          ],
+          [
+            14.1471772,
+            49.9042505
+          ],
+          [
+            14.1471601,
+            49.9042023
+          ],
+          [
+            14.1470853,
+            49.9040142
+          ],
+          [
+            14.1470705,
+            49.9039686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159191979",
+      "properties": {
+        "@id": "way/159191979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1429206,
+            49.9062766
+          ],
+          [
+            14.1434635,
+            49.9062221
+          ],
+          [
+            14.1440831,
+            49.9060654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173166195",
+      "properties": {
+        "@id": "way/173166195",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1440831,
+            49.9060654
+          ],
+          [
+            14.1451098,
+            49.9058058
+          ],
+          [
+            14.1458136,
+            49.9056282
+          ],
+          [
+            14.1462077,
+            49.9054947
+          ],
+          [
+            14.1465239,
+            49.90534
+          ],
+          [
+            14.1469455,
+            49.9051225
+          ],
+          [
+            14.1473904,
+            49.904942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/282116931",
+      "properties": {
+        "@id": "way/282116931",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1480921,
+            49.903807
+          ],
+          [
+            14.1470705,
+            49.9039686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/282116932",
+      "properties": {
+        "@id": "way/282116932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1480921,
+            49.903807
+          ],
+          [
+            14.1491723,
+            49.9037474
+          ],
+          [
+            14.1503853,
+            49.9035769
+          ],
+          [
+            14.1514958,
+            49.9034157
+          ],
+          [
+            14.1520671,
+            49.9033206
+          ],
+          [
+            14.152687,
+            49.9031264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255404",
+      "properties": {
+        "@id": "way/226255404",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.165748,
+            49.881706
+          ],
+          [
+            14.1656088,
+            49.8816574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255402",
+      "properties": {
+        "@id": "way/226255402",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1738195,
+            49.8845977
+          ],
+          [
+            14.1734861,
+            49.8845409
+          ],
+          [
+            14.1724846,
+            49.8844363
+          ],
+          [
+            14.1715307,
+            49.8842404
+          ],
+          [
+            14.1707606,
+            49.8840102
+          ],
+          [
+            14.1702925,
+            49.8838084
+          ],
+          [
+            14.1694292,
+            49.883237
+          ],
+          [
+            14.1686248,
+            49.882868
+          ],
+          [
+            14.1672962,
+            49.8824891
+          ],
+          [
+            14.1668226,
+            49.8822812
+          ],
+          [
+            14.1663529,
+            49.8820247
+          ],
+          [
+            14.1659669,
+            49.8817928
+          ],
+          [
+            14.165748,
+            49.881706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286613149",
+      "properties": {
+        "@id": "way/286613149",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1846134,
+            49.8881792
+          ],
+          [
+            14.1840865,
+            49.887961
+          ],
+          [
+            14.1830708,
+            49.8873293
+          ],
+          [
+            14.1827396,
+            49.8871756
+          ],
+          [
+            14.1810995,
+            49.886544
+          ],
+          [
+            14.1804381,
+            49.8864034
+          ],
+          [
+            14.178893,
+            49.8862379
+          ],
+          [
+            14.1782719,
+            49.8861507
+          ],
+          [
+            14.1780765,
+            49.8860944
+          ],
+          [
+            14.1778458,
+            49.8860422
+          ],
+          [
+            14.1774857,
+            49.885883
+          ],
+          [
+            14.176385,
+            49.8853731
+          ],
+          [
+            14.1746005,
+            49.884747
+          ],
+          [
+            14.1742689,
+            49.8846857
+          ],
+          [
+            14.1739688,
+            49.8846237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255403",
+      "properties": {
+        "@id": "way/226255403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1739688,
+            49.8846237
+          ],
+          [
+            14.1738195,
+            49.8845977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255411",
+      "properties": {
+        "@id": "way/226255411",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.160268,
+            49.8956074
+          ],
+          [
+            14.1602399,
+            49.8956866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226255410",
+      "properties": {
+        "@id": "way/226255410",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1602399,
+            49.8956866
+          ],
+          [
+            14.1602182,
+            49.8958045
+          ],
+          [
+            14.160183,
+            49.895959
+          ],
+          [
+            14.1601913,
+            49.8961221
+          ],
+          [
+            14.1602793,
+            49.8962967
+          ],
+          [
+            14.1605723,
+            49.8964861
+          ],
+          [
+            14.16113,
+            49.89678
+          ],
+          [
+            14.1633343,
+            49.897813
+          ],
+          [
+            14.1635245,
+            49.8979742
+          ],
+          [
+            14.1637219,
+            49.8981984
+          ],
+          [
+            14.1643657,
+            49.8985283
+          ],
+          [
+            14.1644073,
+            49.8986666
+          ],
+          [
+            14.164338,
+            49.8992596
+          ],
+          [
+            14.1640335,
+            49.8995896
+          ],
+          [
+            14.1636389,
+            49.8997947
+          ],
+          [
+            14.161846,
+            49.9004769
+          ],
+          [
+            14.1598219,
+            49.901572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9525156",
+      "properties": {
+        "@id": "way/9525156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1863551,
+            49.8896713
+          ],
+          [
+            14.1863332,
+            49.8895901
+          ],
+          [
+            14.1862798,
+            49.889427
+          ],
+          [
+            14.1859957,
+            49.8889028
+          ],
+          [
+            14.1856185,
+            49.8886582
+          ],
+          [
+            14.1851821,
+            49.8884223
+          ],
+          [
+            14.1846134,
+            49.8881792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286613148",
+      "properties": {
+        "@id": "way/286613148",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1935662,
+            49.8920031
+          ],
+          [
+            14.1927525,
+            49.891651
+          ],
+          [
+            14.1925043,
+            49.8915436
+          ],
+          [
+            14.1897809,
+            49.8911184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37892841",
+      "properties": {
+        "@id": "way/37892841",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1897809,
+            49.8911184
+          ],
+          [
+            14.1888458,
+            49.8909176
+          ],
+          [
+            14.1881323,
+            49.8906633
+          ],
+          [
+            14.187345,
+            49.8902248
+          ],
+          [
+            14.1868488,
+            49.8900348
+          ],
+          [
+            14.1867381,
+            49.8899924
+          ],
+          [
+            14.1866061,
+            49.889938
+          ],
+          [
+            14.1865126,
+            49.8898719
+          ],
+          [
+            14.1864511,
+            49.8898117
+          ],
+          [
+            14.1863551,
+            49.8896713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237166961",
+      "properties": {
+        "@id": "way/237166961",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2069561,
+            49.8923211
+          ],
+          [
+            14.2066307,
+            49.8922948
+          ],
+          [
+            14.205994,
+            49.8922948
+          ],
+          [
+            14.2056881,
+            49.8923143
+          ],
+          [
+            14.2052619,
+            49.8924306
+          ],
+          [
+            14.2048177,
+            49.8926293
+          ],
+          [
+            14.20381,
+            49.8932114
+          ],
+          [
+            14.2034846,
+            49.8933348
+          ],
+          [
+            14.2007667,
+            49.8940425
+          ],
+          [
+            14.2003789,
+            49.8941042
+          ],
+          [
+            14.1999235,
+            49.8941013
+          ],
+          [
+            14.1993684,
+            49.8940268
+          ],
+          [
+            14.1974313,
+            49.893686
+          ],
+          [
+            14.1971538,
+            49.8935939
+          ],
+          [
+            14.1965653,
+            49.8933358
+          ],
+          [
+            14.1955747,
+            49.8928989
+          ],
+          [
+            14.1944674,
+            49.8924012
+          ],
+          [
+            14.1935662,
+            49.8920031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9526354",
+      "properties": {
+        "@id": "way/9526354",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2134794,
+            49.9000652
+          ],
+          [
+            14.2121499,
+            49.8993441
+          ],
+          [
+            14.2111331,
+            49.8986874
+          ],
+          [
+            14.210329,
+            49.8980188
+          ],
+          [
+            14.2096952,
+            49.8973631
+          ],
+          [
+            14.2092681,
+            49.8967894
+          ],
+          [
+            14.2083723,
+            49.8959161
+          ],
+          [
+            14.207816,
+            49.8952875
+          ],
+          [
+            14.2072599,
+            49.8945726
+          ],
+          [
+            14.2069043,
+            49.8939478
+          ],
+          [
+            14.2067174,
+            49.893564
+          ],
+          [
+            14.2066518,
+            49.8931224
+          ],
+          [
+            14.2067302,
+            49.8929083
+          ],
+          [
+            14.2070177,
+            49.892665
+          ],
+          [
+            14.2070987,
+            49.8925287
+          ],
+          [
+            14.2071006,
+            49.892452
+          ],
+          [
+            14.2070461,
+            49.8923717
+          ],
+          [
+            14.2069561,
+            49.8923211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79183442",
+      "properties": {
+        "@id": "way/79183442",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2057162,
+            49.9185996
+          ],
+          [
+            14.2054594,
+            49.9186022
+          ],
+          [
+            14.2049817,
+            49.9187068
+          ],
+          [
+            14.2047502,
+            49.9187362
+          ],
+          [
+            14.2039296,
+            49.9186649
+          ],
+          [
+            14.2034077,
+            49.9184709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188111379",
+      "properties": {
+        "@id": "way/188111379",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2034077,
+            49.9184709
+          ],
+          [
+            14.2030944,
+            49.9184492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34746633",
+      "properties": {
+        "@id": "way/34746633",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2057162,
+            49.9185996
+          ],
+          [
+            14.2057987,
+            49.9186629
+          ],
+          [
+            14.2058413,
+            49.9187231
+          ],
+          [
+            14.2059631,
+            49.9188539
+          ],
+          [
+            14.2061011,
+            49.9189375
+          ],
+          [
+            14.2063042,
+            49.9189846
+          ],
+          [
+            14.2069742,
+            49.9190373
+          ],
+          [
+            14.2077539,
+            49.9191196
+          ],
+          [
+            14.2084075,
+            49.9191833
+          ],
+          [
+            14.2087138,
+            49.9191833
+          ],
+          [
+            14.2092277,
+            49.9191833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47060629",
+      "properties": {
+        "@id": "way/47060629",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2253365,
+            49.9059952
+          ],
+          [
+            14.2252471,
+            49.9059489
+          ],
+          [
+            14.2249039,
+            49.9058588
+          ],
+          [
+            14.2230236,
+            49.9053477
+          ],
+          [
+            14.2202649,
+            49.904567
+          ],
+          [
+            14.2197012,
+            49.9043482
+          ],
+          [
+            14.2188183,
+            49.903738
+          ],
+          [
+            14.2154085,
+            49.901318
+          ],
+          [
+            14.2153641,
+            49.9012865
+          ],
+          [
+            14.2138652,
+            49.9002745
+          ],
+          [
+            14.2134794,
+            49.9000652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180461829",
+      "properties": {
+        "@id": "way/180461829",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2201686,
+            49.9181963
+          ],
+          [
+            14.2204553,
+            49.9181423
+          ],
+          [
+            14.2210346,
+            49.9178843
+          ],
+          [
+            14.2218065,
+            49.9174751
+          ],
+          [
+            14.2230596,
+            49.9168298
+          ],
+          [
+            14.2241849,
+            49.9162574
+          ],
+          [
+            14.2253311,
+            49.9157759
+          ],
+          [
+            14.2260274,
+            49.9155363
+          ],
+          [
+            14.2262076,
+            49.91547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9526046",
+      "properties": {
+        "@id": "way/9526046",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2345215,
+            49.9137744
+          ],
+          [
+            14.2344196,
+            49.9137755
+          ],
+          [
+            14.2342856,
+            49.9137792
+          ],
+          [
+            14.2333118,
+            49.9137789
+          ],
+          [
+            14.232835,
+            49.913754
+          ],
+          [
+            14.2324395,
+            49.9136935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34746636",
+      "properties": {
+        "@id": "way/34746636",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2262076,
+            49.91547
+          ],
+          [
+            14.2262232,
+            49.9154381
+          ],
+          [
+            14.2262672,
+            49.9153479
+          ],
+          [
+            14.2262906,
+            49.9148629
+          ],
+          [
+            14.2263684,
+            49.914383
+          ],
+          [
+            14.2267701,
+            49.9134524
+          ],
+          [
+            14.2279235,
+            49.9136878
+          ],
+          [
+            14.2291102,
+            49.913562
+          ],
+          [
+            14.2295174,
+            49.913529
+          ],
+          [
+            14.2301756,
+            49.913508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36770376",
+      "properties": {
+        "@id": "way/36770376",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2310618,
+            49.9134619
+          ],
+          [
+            14.2307962,
+            49.9133827
+          ],
+          [
+            14.2306029,
+            49.9132655
+          ],
+          [
+            14.2304784,
+            49.9130723
+          ],
+          [
+            14.2304239,
+            49.9128935
+          ],
+          [
+            14.2304105,
+            49.9127758
+          ],
+          [
+            14.2303768,
+            49.9124464
+          ],
+          [
+            14.2303557,
+            49.9122626
+          ],
+          [
+            14.2303352,
+            49.9121324
+          ],
+          [
+            14.2302792,
+            49.9115643
+          ],
+          [
+            14.2301983,
+            49.910665
+          ],
+          [
+            14.2301087,
+            49.9102137
+          ],
+          [
+            14.2298298,
+            49.9097538
+          ],
+          [
+            14.2296997,
+            49.9096249
+          ],
+          [
+            14.229386,
+            49.909374
+          ],
+          [
+            14.2287514,
+            49.9089138
+          ],
+          [
+            14.228428,
+            49.908738
+          ],
+          [
+            14.228124,
+            49.9086792
+          ],
+          [
+            14.227999,
+            49.9086632
+          ],
+          [
+            14.2273343,
+            49.9085783
+          ],
+          [
+            14.2264698,
+            49.9084802
+          ],
+          [
+            14.2259652,
+            49.9083
+          ],
+          [
+            14.225403,
+            49.907971
+          ],
+          [
+            14.2249373,
+            49.9076656
+          ],
+          [
+            14.2247604,
+            49.9074903
+          ],
+          [
+            14.2247181,
+            49.9073961
+          ],
+          [
+            14.224662,
+            49.9072709
+          ],
+          [
+            14.2246694,
+            49.9070588
+          ],
+          [
+            14.2248032,
+            49.9069119
+          ],
+          [
+            14.2250188,
+            49.9067957
+          ],
+          [
+            14.2253763,
+            49.9067367
+          ],
+          [
+            14.2256296,
+            49.9067123
+          ],
+          [
+            14.2258394,
+            49.9066061
+          ],
+          [
+            14.2258753,
+            49.906455
+          ],
+          [
+            14.2257805,
+            49.9062871
+          ],
+          [
+            14.2256577,
+            49.906189
+          ],
+          [
+            14.2255598,
+            49.9061107
+          ],
+          [
+            14.2253365,
+            49.9059952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36823658",
+      "properties": {
+        "@id": "way/36823658",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.23181,
+            49.9135893
+          ],
+          [
+            14.23142,
+            49.9135188
+          ],
+          [
+            14.2310618,
+            49.9134619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36823659",
+      "properties": {
+        "@id": "way/36823659",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2320719,
+            49.9136414
+          ],
+          [
+            14.23181,
+            49.9135893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47056721",
+      "properties": {
+        "@id": "way/47056721",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2324395,
+            49.9136935
+          ],
+          [
+            14.2322293,
+            49.9136614
+          ],
+          [
+            14.2320719,
+            49.9136414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166749698",
+      "properties": {
+        "@id": "way/166749698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2301756,
+            49.913508
+          ],
+          [
+            14.2308112,
+            49.9135098
+          ],
+          [
+            14.2310618,
+            49.9134619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113319548",
+      "properties": {
+        "@id": "way/113319548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2093314,
+            49.917815
+          ],
+          [
+            14.2096558,
+            49.9178796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172403830",
+      "properties": {
+        "@id": "way/172403830",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2096558,
+            49.9178796
+          ],
+          [
+            14.2098811,
+            49.9179147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172403831",
+      "properties": {
+        "@id": "way/172403831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2098811,
+            49.9179147
+          ],
+          [
+            14.2099506,
+            49.9179257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172444900",
+      "properties": {
+        "@id": "way/172444900",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2099506,
+            49.9179257
+          ],
+          [
+            14.210477,
+            49.9180088
+          ],
+          [
+            14.2110769,
+            49.9181142
+          ],
+          [
+            14.2119384,
+            49.9182409
+          ],
+          [
+            14.2126573,
+            49.9184629
+          ],
+          [
+            14.2134782,
+            49.9186177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205301661",
+      "properties": {
+        "@id": "way/205301661",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2092277,
+            49.9191833
+          ],
+          [
+            14.2090004,
+            49.9188382
+          ],
+          [
+            14.2089435,
+            49.9186029
+          ],
+          [
+            14.208976,
+            49.9183205
+          ],
+          [
+            14.2090149,
+            49.9182311
+          ],
+          [
+            14.2090897,
+            49.9180591
+          ],
+          [
+            14.2093314,
+            49.917815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113319545",
+      "properties": {
+        "@id": "way/113319545",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2163407,
+            49.9196675
+          ],
+          [
+            14.2173897,
+            49.9195225
+          ],
+          [
+            14.218185,
+            49.9192928
+          ],
+          [
+            14.2185743,
+            49.9190815
+          ],
+          [
+            14.2191191,
+            49.9184417
+          ],
+          [
+            14.2195133,
+            49.9182714
+          ],
+          [
+            14.2201686,
+            49.9181963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180461823",
+      "properties": {
+        "@id": "way/180461823",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2134782,
+            49.9186177
+          ],
+          [
+            14.2139067,
+            49.9188331
+          ],
+          [
+            14.2148117,
+            49.9192964
+          ],
+          [
+            14.2152766,
+            49.9195028
+          ],
+          [
+            14.2155444,
+            49.9195727
+          ],
+          [
+            14.2163407,
+            49.9196675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34728952",
+      "properties": {
+        "@id": "way/34728952",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2355332,
+            49.9139703
+          ],
+          [
+            14.2353724,
+            49.9145458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34747297",
+      "properties": {
+        "@id": "way/34747297",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2345215,
+            49.9137744
+          ],
+          [
+            14.2347864,
+            49.9137672
+          ],
+          [
+            14.234895,
+            49.9137715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47056830",
+      "properties": {
+        "@id": "way/47056830",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2355332,
+            49.9139703
+          ],
+          [
+            14.2360716,
+            49.9141881
+          ],
+          [
+            14.2360901,
+            49.9141956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47056831",
+      "properties": {
+        "@id": "way/47056831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2353724,
+            49.9145458
+          ],
+          [
+            14.235945,
+            49.914527
+          ],
+          [
+            14.2361952,
+            49.9145186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309621429",
+      "properties": {
+        "@id": "way/309621429",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2353714,
+            49.9139056
+          ],
+          [
+            14.2355332,
+            49.9139703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393048425",
+      "properties": {
+        "@id": "way/393048425",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.234895,
+            49.9137715
+          ],
+          [
+            14.2350722,
+            49.9137908
+          ],
+          [
+            14.2353714,
+            49.9139056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393048426",
+      "properties": {
+        "@id": "way/393048426",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2360901,
+            49.9141956
+          ],
+          [
+            14.2361713,
+            49.9142284
+          ],
+          [
+            14.236602,
+            49.9143131
+          ],
+          [
+            14.2368077,
+            49.9143536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393048427",
+      "properties": {
+        "@id": "way/393048427",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2361952,
+            49.9145186
+          ],
+          [
+            14.2363352,
+            49.9145139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393048428",
+      "properties": {
+        "@id": "way/393048428",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2363352,
+            49.9145139
+          ],
+          [
+            14.2365435,
+            49.9145007
+          ],
+          [
+            14.2367662,
+            49.9144866
+          ],
+          [
+            14.2368077,
+            49.9143536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309624502",
+      "properties": {
+        "@id": "way/309624502",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0486828,
+            49.9291927
+          ],
+          [
+            14.0485265,
+            49.9293546
+          ],
+          [
+            14.048323,
+            49.9294729
+          ],
+          [
+            14.0470049,
+            49.9297272
+          ],
+          [
+            14.0464196,
+            49.9297737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137389000",
+      "properties": {
+        "@id": "way/137389000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0432405,
+            49.9315952
+          ],
+          [
+            14.0431731,
+            49.9317111
+          ],
+          [
+            14.0431693,
+            49.9318726
+          ],
+          [
+            14.0432151,
+            49.9320205
+          ],
+          [
+            14.0434484,
+            49.9323669
+          ],
+          [
+            14.0440404,
+            49.9329474
+          ],
+          [
+            14.0442276,
+            49.9332304
+          ],
+          [
+            14.0443433,
+            49.9335367
+          ],
+          [
+            14.0443777,
+            49.9339133
+          ],
+          [
+            14.0442835,
+            49.9343002
+          ],
+          [
+            14.0440726,
+            49.934611
+          ],
+          [
+            14.0438157,
+            49.9348455
+          ],
+          [
+            14.0436962,
+            49.9349546
+          ],
+          [
+            14.0428908,
+            49.9355128
+          ],
+          [
+            14.0426912,
+            49.9358097
+          ],
+          [
+            14.0426513,
+            49.9361431
+          ],
+          [
+            14.0427249,
+            49.9363335
+          ],
+          [
+            14.0432125,
+            49.9368633
+          ],
+          [
+            14.043714,
+            49.9373208
+          ],
+          [
+            14.0439662,
+            49.937673
+          ],
+          [
+            14.0441603,
+            49.9380809
+          ],
+          [
+            14.0444892,
+            49.9386708
+          ],
+          [
+            14.0446957,
+            49.9390747
+          ],
+          [
+            14.0449413,
+            49.9395769
+          ],
+          [
+            14.0450668,
+            49.9399038
+          ],
+          [
+            14.0450496,
+            49.9402321
+          ],
+          [
+            14.0449288,
+            49.9405546
+          ],
+          [
+            14.0445785,
+            49.9409499
+          ],
+          [
+            14.0444161,
+            49.9411067
+          ],
+          [
+            14.0441995,
+            49.9412845
+          ],
+          [
+            14.0441112,
+            49.9414351
+          ],
+          [
+            14.0441183,
+            49.9416155
+          ],
+          [
+            14.0441663,
+            49.9417418
+          ],
+          [
+            14.0443977,
+            49.9420417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309624496",
+      "properties": {
+        "@id": "way/309624496",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0464196,
+            49.9297737
+          ],
+          [
+            14.0457879,
+            49.9298238
+          ],
+          [
+            14.044932,
+            49.9300063
+          ],
+          [
+            14.0443984,
+            49.9302267
+          ],
+          [
+            14.0440156,
+            49.9304833
+          ],
+          [
+            14.0436351,
+            49.9308531
+          ],
+          [
+            14.0435465,
+            49.9310198
+          ],
+          [
+            14.0432405,
+            49.9315952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125544381",
+      "properties": {
+        "@id": "way/125544381",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0376988,
+            49.9454937
+          ],
+          [
+            14.0366585,
+            49.9463192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129521252",
+      "properties": {
+        "@id": "way/129521252",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.035159,
+            49.9462042
+          ],
+          [
+            14.0352887,
+            49.9462864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291451733",
+      "properties": {
+        "@id": "way/291451733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0347562,
+            49.9461297
+          ],
+          [
+            14.0349927,
+            49.9461575
+          ],
+          [
+            14.0351134,
+            49.9462062
+          ],
+          [
+            14.0352445,
+            49.9462867
+          ],
+          [
+            14.0352919,
+            49.9463182
+          ],
+          [
+            14.0353512,
+            49.9463897
+          ],
+          [
+            14.0354123,
+            49.946547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594161",
+      "properties": {
+        "@id": "way/400594161",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0327143,
+            49.9439689
+          ],
+          [
+            14.0316974,
+            49.9446453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594179",
+      "properties": {
+        "@id": "way/400594179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0366585,
+            49.9463192
+          ],
+          [
+            14.0359013,
+            49.9459009
+          ],
+          [
+            14.0347488,
+            49.9452018
+          ],
+          [
+            14.0327143,
+            49.9439689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594204",
+      "properties": {
+        "@id": "way/400594204",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0346679,
+            49.9460984
+          ],
+          [
+            14.0345775,
+            49.9460664
+          ],
+          [
+            14.0341715,
+            49.9459229
+          ],
+          [
+            14.0340158,
+            49.9458688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594212",
+      "properties": {
+        "@id": "way/400594212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0340158,
+            49.9458688
+          ],
+          [
+            14.0330489,
+            49.9455333
+          ],
+          [
+            14.0327527,
+            49.9454113
+          ],
+          [
+            14.0325186,
+            49.9452755
+          ],
+          [
+            14.0316974,
+            49.9446453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400608841",
+      "properties": {
+        "@id": "way/400608841",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0347562,
+            49.9461297
+          ],
+          [
+            14.0346679,
+            49.9460984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125407302",
+      "properties": {
+        "@id": "way/125407302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0388562,
+            49.9445191
+          ],
+          [
+            14.0386527,
+            49.9446904
+          ],
+          [
+            14.0378793,
+            49.9453417
+          ],
+          [
+            14.0376988,
+            49.9454937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393218095",
+      "properties": {
+        "@id": "way/393218095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0383733,
+            49.9485641
+          ],
+          [
+            14.0383166,
+            49.9485382
+          ],
+          [
+            14.0380645,
+            49.9484224
+          ],
+          [
+            14.0380141,
+            49.9483968
+          ],
+          [
+            14.037068,
+            49.9479189
+          ],
+          [
+            14.0364729,
+            49.9476297
+          ],
+          [
+            14.0363972,
+            49.9475926
+          ],
+          [
+            14.0363227,
+            49.9475437
+          ],
+          [
+            14.0362386,
+            49.9474713
+          ],
+          [
+            14.035661,
+            49.946831
+          ],
+          [
+            14.0355727,
+            49.9467304
+          ],
+          [
+            14.0354123,
+            49.946547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36945047",
+      "properties": {
+        "@id": "way/36945047",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.03914,
+            49.9443422
+          ],
+          [
+            14.0388562,
+            49.9445191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108478831",
+      "properties": {
+        "@id": "way/108478831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0400352,
+            49.9434771
+          ],
+          [
+            14.0396879,
+            49.9437386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400060288",
+      "properties": {
+        "@id": "way/400060288",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0387319,
+            49.9446676
+          ],
+          [
+            14.0386531,
+            49.9447287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594223",
+      "properties": {
+        "@id": "way/400594223",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0396879,
+            49.9437386
+          ],
+          [
+            14.0392417,
+            49.9441745
+          ],
+          [
+            14.03914,
+            49.9443422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125479775",
+      "properties": {
+        "@id": "way/125479775",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0443977,
+            49.9420417
+          ],
+          [
+            14.0449757,
+            49.9423365
+          ],
+          [
+            14.0452432,
+            49.9425568
+          ],
+          [
+            14.0456799,
+            49.9429765
+          ],
+          [
+            14.0457839,
+            49.9430732
+          ],
+          [
+            14.046268,
+            49.9435236
+          ],
+          [
+            14.0471958,
+            49.9442739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224766775",
+      "properties": {
+        "@id": "way/224766775",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0472431,
+            49.9443389
+          ],
+          [
+            14.0473169,
+            49.9445116
+          ],
+          [
+            14.046666,
+            49.945449
+          ],
+          [
+            14.046644,
+            49.945473
+          ],
+          [
+            14.0466131,
+            49.9455068
+          ],
+          [
+            14.0465784,
+            49.9455447
+          ],
+          [
+            14.046545,
+            49.9455698
+          ],
+          [
+            14.0464754,
+            49.9456218
+          ],
+          [
+            14.0463848,
+            49.9456302
+          ],
+          [
+            14.0462955,
+            49.94561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224766776",
+      "properties": {
+        "@id": "way/224766776",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0471958,
+            49.9442739
+          ],
+          [
+            14.0472256,
+            49.944298
+          ],
+          [
+            14.0472431,
+            49.9443389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4052980",
+      "properties": {
+        "@id": "way/4052980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0420171,
+            49.9501378
+          ],
+          [
+            14.0420967,
+            49.9501513
+          ],
+          [
+            14.0436523,
+            49.9507523
+          ],
+          [
+            14.0448843,
+            49.9512447
+          ],
+          [
+            14.0453741,
+            49.951436
+          ],
+          [
+            14.0465522,
+            49.951884
+          ],
+          [
+            14.0477236,
+            49.9523268
+          ],
+          [
+            14.0482048,
+            49.9525354
+          ],
+          [
+            14.0487065,
+            49.952753
+          ],
+          [
+            14.0494945,
+            49.9530946
+          ],
+          [
+            14.0498822,
+            49.9532627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188331417",
+      "properties": {
+        "@id": "way/188331417",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0462955,
+            49.94561
+          ],
+          [
+            14.045685,
+            49.945307
+          ],
+          [
+            14.0453672,
+            49.9451636
+          ],
+          [
+            14.0451491,
+            49.945097
+          ],
+          [
+            14.0442085,
+            49.9448783
+          ],
+          [
+            14.0440696,
+            49.9448423
+          ],
+          [
+            14.0423453,
+            49.9440478
+          ],
+          [
+            14.040966,
+            49.9434968
+          ],
+          [
+            14.0405842,
+            49.9433443
+          ],
+          [
+            14.0402879,
+            49.9433326
+          ],
+          [
+            14.0400352,
+            49.9434771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/401116414",
+      "properties": {
+        "@id": "way/401116414",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0498822,
+            49.9532627
+          ],
+          [
+            14.0503156,
+            49.9534534
+          ],
+          [
+            14.0509328,
+            49.9537815
+          ],
+          [
+            14.0522893,
+            49.9544762
+          ],
+          [
+            14.0523195,
+            49.9544893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55759867",
+      "properties": {
+        "@id": "way/55759867",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0419951,
+            49.9500695
+          ],
+          [
+            14.0420171,
+            49.9501378
+          ],
+          [
+            14.041991,
+            49.9502086
+          ],
+          [
+            14.0419201,
+            49.9502654
+          ],
+          [
+            14.041818,
+            49.9502969
+          ],
+          [
+            14.0417048,
+            49.950297
+          ],
+          [
+            14.0416026,
+            49.9502657
+          ],
+          [
+            14.0415314,
+            49.9502091
+          ],
+          [
+            14.0415051,
+            49.9501306
+          ],
+          [
+            14.0415397,
+            49.9500534
+          ],
+          [
+            14.0416268,
+            49.9499959
+          ],
+          [
+            14.041729,
+            49.9499728
+          ],
+          [
+            14.0418369,
+            49.9499789
+          ],
+          [
+            14.0419313,
+            49.9500132
+          ],
+          [
+            14.0419951,
+            49.9500695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393218096",
+      "properties": {
+        "@id": "way/393218096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0389423,
+            49.9488397
+          ],
+          [
+            14.0385451,
+            49.9486481
+          ],
+          [
+            14.0383733,
+            49.9485641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393218098",
+      "properties": {
+        "@id": "way/393218098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0416268,
+            49.9499959
+          ],
+          [
+            14.0415789,
+            49.9499583
+          ],
+          [
+            14.0405263,
+            49.9495443
+          ],
+          [
+            14.0395354,
+            49.9491431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284455",
+      "properties": {
+        "@id": "way/393284455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0395354,
+            49.9491431
+          ],
+          [
+            14.0394523,
+            49.9491095
+          ],
+          [
+            14.0392868,
+            49.9490284
+          ],
+          [
+            14.0389423,
+            49.9488397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284453",
+      "properties": {
+        "@id": "way/393284453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0528586,
+            49.9547711
+          ],
+          [
+            14.0529181,
+            49.9548011
+          ],
+          [
+            14.05338,
+            49.9550459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270111083",
+      "properties": {
+        "@id": "way/270111083",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0523195,
+            49.9544893
+          ],
+          [
+            14.0524905,
+            49.9545204
+          ],
+          [
+            14.0527833,
+            49.9546728
+          ],
+          [
+            14.0528153,
+            49.9546917
+          ],
+          [
+            14.0528372,
+            49.9547286
+          ],
+          [
+            14.0528586,
+            49.9547711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270111084",
+      "properties": {
+        "@id": "way/270111084",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0526001,
+            49.9545575
+          ],
+          [
+            14.052799,
+            49.9546641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393218097",
+      "properties": {
+        "@id": "way/393218097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.05338,
+            49.9550459
+          ],
+          [
+            14.0538956,
+            49.955304
+          ],
+          [
+            14.0542231,
+            49.9554742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125160489",
+      "properties": {
+        "@id": "way/125160489",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0615888,
+            49.9589137
+          ],
+          [
+            14.0615597,
+            49.9588482
+          ],
+          [
+            14.0633587,
+            49.957351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224610534",
+      "properties": {
+        "@id": "way/224610534",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0633587,
+            49.957351
+          ],
+          [
+            14.0633444,
+            49.9573074
+          ],
+          [
+            14.0633561,
+            49.957255
+          ],
+          [
+            14.0633823,
+            49.9572169
+          ],
+          [
+            14.0634462,
+            49.9571575
+          ],
+          [
+            14.0634985,
+            49.9571106
+          ],
+          [
+            14.0635594,
+            49.957088
+          ],
+          [
+            14.0636261,
+            49.9570588
+          ],
+          [
+            14.0636957,
+            49.9570635
+          ],
+          [
+            14.0637683,
+            49.957114
+          ],
+          [
+            14.0637734,
+            49.9571319
+          ],
+          [
+            14.063764,
+            49.9571828
+          ],
+          [
+            14.0637452,
+            49.9572238
+          ],
+          [
+            14.0637153,
+            49.9572637
+          ],
+          [
+            14.0636035,
+            49.9573415
+          ],
+          [
+            14.0635352,
+            49.9573742
+          ],
+          [
+            14.0634316,
+            49.9573825
+          ],
+          [
+            14.0633587,
+            49.957351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400631343",
+      "properties": {
+        "@id": "way/400631343",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.059672,
+            49.9582999
+          ],
+          [
+            14.0604943,
+            49.9585868
+          ],
+          [
+            14.061403,
+            49.9588569
+          ],
+          [
+            14.0615888,
+            49.9589137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224610537",
+      "properties": {
+        "@id": "way/224610537",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0636957,
+            49.9570635
+          ],
+          [
+            14.0637727,
+            49.9569764
+          ],
+          [
+            14.0646416,
+            49.9562527
+          ],
+          [
+            14.0646852,
+            49.9562274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393218099",
+      "properties": {
+        "@id": "way/393218099",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0542231,
+            49.9554742
+          ],
+          [
+            14.0550639,
+            49.9559063
+          ],
+          [
+            14.0558567,
+            49.9563552
+          ],
+          [
+            14.0579203,
+            49.9574616
+          ],
+          [
+            14.0586819,
+            49.957856
+          ],
+          [
+            14.059672,
+            49.9582999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216350432",
+      "properties": {
+        "@id": "way/216350432",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0646852,
+            49.9562274
+          ],
+          [
+            14.0649813,
+            49.9560932
+          ],
+          [
+            14.065078,
+            49.9560556
+          ],
+          [
+            14.0655006,
+            49.9560038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229827856",
+      "properties": {
+        "@id": "way/229827856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0655006,
+            49.9560038
+          ],
+          [
+            14.065602,
+            49.9560063
+          ],
+          [
+            14.0658916,
+            49.95603
+          ],
+          [
+            14.0661994,
+            49.9560989
+          ],
+          [
+            14.0665198,
+            49.9562184
+          ],
+          [
+            14.0669309,
+            49.9564433
+          ],
+          [
+            14.0672532,
+            49.9566455
+          ],
+          [
+            14.0676639,
+            49.9568858
+          ],
+          [
+            14.0680591,
+            49.9570912
+          ],
+          [
+            14.0684003,
+            49.9572418
+          ],
+          [
+            14.0689862,
+            49.9574167
+          ],
+          [
+            14.0700736,
+            49.9576519
+          ],
+          [
+            14.0701653,
+            49.9576693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30876558",
+      "properties": {
+        "@id": "way/30876558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0714358,
+            49.9578226
+          ],
+          [
+            14.0716201,
+            49.9578011
+          ],
+          [
+            14.0719215,
+            49.957734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30876559",
+      "properties": {
+        "@id": "way/30876559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0719215,
+            49.957734
+          ],
+          [
+            14.0719663,
+            49.9577203
+          ],
+          [
+            14.0720867,
+            49.9576969
+          ],
+          [
+            14.0724067,
+            49.9576716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158873580",
+      "properties": {
+        "@id": "way/158873580",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0733214,
+            49.957621
+          ],
+          [
+            14.073225,
+            49.9576197
+          ],
+          [
+            14.0730805,
+            49.9576238
+          ],
+          [
+            14.0729862,
+            49.9576261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206662448",
+      "properties": {
+        "@id": "way/206662448",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0711181,
+            49.9578271
+          ],
+          [
+            14.0714358,
+            49.9578226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338548116",
+      "properties": {
+        "@id": "way/338548116",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0707234,
+            49.9577752
+          ],
+          [
+            14.0708048,
+            49.9577906
+          ],
+          [
+            14.0711181,
+            49.9578271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389636576",
+      "properties": {
+        "@id": "way/389636576",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0738265,
+            49.9575123
+          ],
+          [
+            14.0739331,
+            49.9574561
+          ],
+          [
+            14.0741155,
+            49.957459
+          ],
+          [
+            14.0747141,
+            49.9576046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393237005",
+      "properties": {
+        "@id": "way/393237005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0724067,
+            49.9576716
+          ],
+          [
+            14.0724216,
+            49.9575971
+          ],
+          [
+            14.0724806,
+            49.9575324
+          ],
+          [
+            14.0725744,
+            49.9574876
+          ],
+          [
+            14.0726878,
+            49.95747
+          ],
+          [
+            14.0728029,
+            49.9574824
+          ],
+          [
+            14.072889,
+            49.9575155
+          ],
+          [
+            14.0729526,
+            49.9575654
+          ],
+          [
+            14.0729862,
+            49.9576261
+          ],
+          [
+            14.0729847,
+            49.9576951
+          ],
+          [
+            14.0729445,
+            49.9577591
+          ],
+          [
+            14.0728712,
+            49.9578094
+          ],
+          [
+            14.0727746,
+            49.9578394
+          ],
+          [
+            14.072647,
+            49.957843
+          ],
+          [
+            14.0725292,
+            49.9578113
+          ],
+          [
+            14.0724436,
+            49.9577503
+          ],
+          [
+            14.0724067,
+            49.9576716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284457",
+      "properties": {
+        "@id": "way/393284457",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0736911,
+            49.9576173
+          ],
+          [
+            14.0738265,
+            49.9575123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284459",
+      "properties": {
+        "@id": "way/393284459",
+        "@relations": [
+          {
+            "role": "platform_exit_only",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0746464,
+            49.9575499
+          ],
+          [
+            14.0748788,
+            49.9576054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284460",
+      "properties": {
+        "@id": "way/393284460",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0733214,
+            49.957621
+          ],
+          [
+            14.0734811,
+            49.9576479
+          ],
+          [
+            14.0736047,
+            49.9576382
+          ],
+          [
+            14.0736911,
+            49.9576173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338548115",
+      "properties": {
+        "@id": "way/338548115",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0701653,
+            49.9576693
+          ],
+          [
+            14.0707234,
+            49.9577752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/73294047",
+      "properties": {
+        "@id": "node/73294047",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1471461,
+          49.875639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879878",
+      "properties": {
+        "@id": "node/2750879878",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0661652,
+          49.9211847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879889",
+      "properties": {
+        "@id": "node/2750879889",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0759311,
+          49.9178167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879898",
+      "properties": {
+        "@id": "node/2750879898",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0706353,
+          49.9250693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254651067",
+      "properties": {
+        "@id": "node/254651067",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0828516,
+          49.915906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3352002982",
+      "properties": {
+        "@id": "node/3352002982",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1488275,
+          49.8878756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291134857",
+      "properties": {
+        "@id": "node/291134857",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1533741,
+          49.8909055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031356902",
+      "properties": {
+        "@id": "node/4031356902",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1156531,
+          49.9071149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031337290",
+      "properties": {
+        "@id": "node/4031337290",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1471772,
+          49.9042505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031337289",
+      "properties": {
+        "@id": "node/4031337289",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1528154,
+          49.9030616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444681044",
+      "properties": {
+        "@id": "node/444681044",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.163949,
+          49.881316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444681043",
+      "properties": {
+        "@id": "node/444681043",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1742689,
+          49.8846857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2351120359",
+      "properties": {
+        "@id": "node/2351120359",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1603114,
+          49.8952565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031337292",
+      "properties": {
+        "@id": "node/4031337292",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1865126,
+          49.8898719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031337294",
+      "properties": {
+        "@id": "node/4031337294",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2030944,
+          49.9184492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4031337293",
+      "properties": {
+        "@id": "node/4031337293",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2090149,
+          49.9182311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3931663364",
+      "properties": {
+        "@id": "node/3931663364",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2361952,
+          49.9145186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291133968",
+      "properties": {
+        "@id": "node/291133968",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.048323,
+          49.9294729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949254483",
+      "properties": {
+        "@id": "node/2949254483",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0352445,
+          49.9462867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4026912250",
+      "properties": {
+        "@id": "node/4026912250",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0386527,
+          49.9446904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4024712076",
+      "properties": {
+        "@id": "node/4024712076",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.045685,
+          49.945307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/848429675",
+      "properties": {
+        "@id": "node/848429675",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.065702,
+          49.929249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2751943834",
+      "properties": {
+        "@id": "node/2751943834",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0527833,
+          49.9546728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928039586",
+      "properties": {
+        "@id": "node/3928039586",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 6013255,
+            "reltags": {
+              "from": "Zadní Třebaň,,žel.st.",
+              "name": "BUS C26: Zadní Třebaň,,žel.st. => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C26",
+              "ref:network": "C26",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0747141,
+          49.9576046
+        ]
+      }
+    }
+  ]
+}

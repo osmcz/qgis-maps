@@ -1,0 +1,2491 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-29T00:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4357112",
+      "properties": {
+        "@id": "way/4357112",
+        "highway": "tertiary",
+        "ref": "11413",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0754289,
+            49.9180079
+          ],
+          [
+            14.0753185,
+            49.9179133
+          ],
+          [
+            14.0750457,
+            49.9178385
+          ],
+          [
+            14.0748347,
+            49.9177807
+          ],
+          [
+            14.0745104,
+            49.9176879
+          ],
+          [
+            14.074392,
+            49.9175487
+          ],
+          [
+            14.0744177,
+            49.9173797
+          ],
+          [
+            14.0745618,
+            49.9172305
+          ],
+          [
+            14.0752104,
+            49.9170449
+          ],
+          [
+            14.0753597,
+            49.9169422
+          ],
+          [
+            14.0753339,
+            49.9167699
+          ],
+          [
+            14.0750869,
+            49.9165478
+          ],
+          [
+            14.0749891,
+            49.9163092
+          ],
+          [
+            14.0749222,
+            49.9159744
+          ],
+          [
+            14.074962,
+            49.915751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219843097",
+      "properties": {
+        "@id": "way/219843097",
+        "highway": "tertiary",
+        "ref": "11524",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0738148,
+            49.9186769
+          ],
+          [
+            14.0734094,
+            49.9190525
+          ],
+          [
+            14.0729199,
+            49.919776
+          ],
+          [
+            14.0727119,
+            49.9201418
+          ],
+          [
+            14.072613,
+            49.9203852
+          ],
+          [
+            14.0725419,
+            49.920604
+          ],
+          [
+            14.0724075,
+            49.9212409
+          ],
+          [
+            14.0723593,
+            49.9216378
+          ],
+          [
+            14.0723467,
+            49.9218311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270104276",
+      "properties": {
+        "@id": "way/270104276",
+        "bicycle": "yes",
+        "foot": "yes",
+        "goods": "delivery",
+        "hgv": "delivery",
+        "highway": "service",
+        "motor_vehicle": "delivery",
+        "motorcar": "delivery",
+        "motorcycle": "delivery",
+        "psv": "yes",
+        "source": "uhul:ortofoto;survey",
+        "tourist_bus": "yes",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0724231,
+            49.916217
+          ],
+          [
+            14.0725577,
+            49.9162014
+          ],
+          [
+            14.0727986,
+            49.9161773
+          ],
+          [
+            14.0730197,
+            49.9161374
+          ],
+          [
+            14.0735699,
+            49.9159793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270104277",
+      "properties": {
+        "@id": "way/270104277",
+        "highway": "service",
+        "source": "uhul:ortofoto;survey",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0735699,
+            49.9159793
+          ],
+          [
+            14.073649,
+            49.9159583
+          ],
+          [
+            14.073702,
+            49.9159478
+          ],
+          [
+            14.0746562,
+            49.9157229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373771493",
+      "properties": {
+        "@id": "way/373771493",
+        "highway": "service",
+        "source": "uhul:ortofoto;survey",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0746562,
+            49.9157229
+          ],
+          [
+            14.0748046,
+            49.9157092
+          ],
+          [
+            14.0748981,
+            49.915717
+          ],
+          [
+            14.074962,
+            49.915751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400594165",
+      "properties": {
+        "@id": "way/400594165",
+        "highway": "tertiary",
+        "ref": "11524",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0754289,
+            49.9180079
+          ],
+          [
+            14.0745468,
+            49.9183413
+          ],
+          [
+            14.0738148,
+            49.9186769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26558381",
+      "properties": {
+        "@id": "way/26558381",
+        "highway": "tertiary",
+        "ref": "11532",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0816534,
+            49.9285557
+          ],
+          [
+            14.0801083,
+            49.9286634
+          ],
+          [
+            14.0795547,
+            49.9288209
+          ],
+          [
+            14.0791684,
+            49.9288706
+          ],
+          [
+            14.0785246,
+            49.9287629
+          ],
+          [
+            14.0773787,
+            49.928423
+          ],
+          [
+            14.0760118,
+            49.9277899
+          ],
+          [
+            14.0749066,
+            49.9271797
+          ],
+          [
+            14.074559,
+            49.926815
+          ],
+          [
+            14.0741984,
+            49.9265415
+          ],
+          [
+            14.0738545,
+            49.926428
+          ],
+          [
+            14.0734645,
+            49.9263757
+          ],
+          [
+            14.0728085,
+            49.9263906
+          ],
+          [
+            14.07228,
+            49.9262431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28526945",
+      "properties": {
+        "@id": "way/28526945",
+        "highway": "tertiary",
+        "name": "Měňanská",
+        "ref": "11524 A",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0723467,
+            49.9218311
+          ],
+          [
+            14.0722882,
+            49.9226293
+          ],
+          [
+            14.0722428,
+            49.923002
+          ],
+          [
+            14.0722005,
+            49.9232051
+          ],
+          [
+            14.0721291,
+            49.9233745
+          ],
+          [
+            14.0720405,
+            49.9235516
+          ],
+          [
+            14.0719482,
+            49.9236961
+          ],
+          [
+            14.0718222,
+            49.9238387
+          ],
+          [
+            14.0715218,
+            49.9241364
+          ],
+          [
+            14.0712949,
+            49.9243489
+          ],
+          [
+            14.0711689,
+            49.9244972
+          ],
+          [
+            14.0711384,
+            49.9245628
+          ],
+          [
+            14.0710993,
+            49.9246728
+          ],
+          [
+            14.0710542,
+            49.9250161
+          ],
+          [
+            14.0710336,
+            49.9253376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400621811",
+      "properties": {
+        "@id": "way/400621811",
+        "highway": "tertiary",
+        "ref": "11532",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.07228,
+            49.9262431
+          ],
+          [
+            14.0715103,
+            49.9257165
+          ],
+          [
+            14.0710336,
+            49.9253376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400640957",
+      "properties": {
+        "@id": "way/400640957",
+        "highway": "tertiary",
+        "ref": "11529",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0802186,
+            49.9313974
+          ],
+          [
+            14.0803655,
+            49.9311236
+          ],
+          [
+            14.0804573,
+            49.9309526
+          ],
+          [
+            14.0815025,
+            49.9294711
+          ],
+          [
+            14.0816405,
+            49.9290077
+          ],
+          [
+            14.0816534,
+            49.9285557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309587503",
+      "properties": {
+        "@id": "way/309587503",
+        "highway": "tertiary",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0971533,
+            49.9445584
+          ],
+          [
+            14.0963233,
+            49.9439901
+          ],
+          [
+            14.0951393,
+            49.9432542
+          ],
+          [
+            14.0949319,
+            49.9431636
+          ],
+          [
+            14.0933976,
+            49.9428809
+          ],
+          [
+            14.0917125,
+            49.9421977
+          ],
+          [
+            14.0899788,
+            49.9413164
+          ],
+          [
+            14.0881095,
+            49.9403662
+          ],
+          [
+            14.0877397,
+            49.9399061
+          ],
+          [
+            14.0861003,
+            49.9390334
+          ],
+          [
+            14.0856812,
+            49.9389699
+          ],
+          [
+            14.0848933,
+            49.938556
+          ],
+          [
+            14.084425,
+            49.9383936
+          ],
+          [
+            14.0837153,
+            49.9381355
+          ],
+          [
+            14.0835658,
+            49.9380363
+          ],
+          [
+            14.0834833,
+            49.9379203
+          ],
+          [
+            14.0834521,
+            49.9378196
+          ],
+          [
+            14.0834548,
+            49.9377443
+          ],
+          [
+            14.0835111,
+            49.9375398
+          ],
+          [
+            14.0836527,
+            49.9372659
+          ],
+          [
+            14.0838313,
+            49.9369832
+          ],
+          [
+            14.0839608,
+            49.9367133
+          ],
+          [
+            14.0839906,
+            49.9365016
+          ],
+          [
+            14.0839646,
+            49.9363043
+          ],
+          [
+            14.0838844,
+            49.9360791
+          ],
+          [
+            14.0837589,
+            49.9358243
+          ],
+          [
+            14.0834645,
+            49.9354049
+          ],
+          [
+            14.0832898,
+            49.9352093
+          ],
+          [
+            14.0825625,
+            49.9346936
+          ],
+          [
+            14.0821681,
+            49.934289
+          ],
+          [
+            14.0817243,
+            49.9335908
+          ],
+          [
+            14.0808245,
+            49.9327259
+          ],
+          [
+            14.0806687,
+            49.9323535
+          ],
+          [
+            14.0805682,
+            49.9321716
+          ],
+          [
+            14.080385,
+            49.9319385
+          ],
+          [
+            14.0802385,
+            49.9316567
+          ],
+          [
+            14.0802186,
+            49.9313974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281136789",
+      "properties": {
+        "@id": "way/281136789",
+        "highway": "tertiary",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0876336,
+            49.953628
+          ],
+          [
+            14.087752,
+            49.9535652
+          ],
+          [
+            14.0894936,
+            49.9530499
+          ],
+          [
+            14.0899384,
+            49.9528627
+          ],
+          [
+            14.0906364,
+            49.9524786
+          ],
+          [
+            14.0907482,
+            49.9524307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309962246",
+      "properties": {
+        "@id": "way/309962246",
+        "highway": "tertiary",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.080035,
+            49.9549755
+          ],
+          [
+            14.0805695,
+            49.9553107
+          ],
+          [
+            14.081077,
+            49.9556067
+          ],
+          [
+            14.0815235,
+            49.9557808
+          ],
+          [
+            14.0820716,
+            49.955907
+          ],
+          [
+            14.0827008,
+            49.9559201
+          ],
+          [
+            14.0830324,
+            49.9558679
+          ],
+          [
+            14.0834925,
+            49.955759
+          ],
+          [
+            14.0839526,
+            49.9555806
+          ],
+          [
+            14.0848615,
+            49.9550876
+          ],
+          [
+            14.087498,
+            49.9536999
+          ],
+          [
+            14.0876336,
+            49.953628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109978318",
+      "properties": {
+        "@id": "way/109978318",
+        "highway": "tertiary",
+        "name": "Dr. Aksamita",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1001792,
+            49.9482341
+          ],
+          [
+            14.0996965,
+            49.9479894
+          ],
+          [
+            14.0995105,
+            49.9478196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309587569",
+      "properties": {
+        "@id": "way/309587569",
+        "highway": "tertiary",
+        "name": "Spis. Vojáčků",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0995105,
+            49.9478196
+          ],
+          [
+            14.0991664,
+            49.9475055
+          ],
+          [
+            14.0989914,
+            49.9472694
+          ],
+          [
+            14.0988997,
+            49.9470888
+          ],
+          [
+            14.0988091,
+            49.9466646
+          ],
+          [
+            14.0987103,
+            49.9460698
+          ],
+          [
+            14.0986112,
+            49.9458572
+          ],
+          [
+            14.0984515,
+            49.9455146
+          ],
+          [
+            14.0975933,
+            49.9448596
+          ],
+          [
+            14.0971533,
+            49.9445584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109978328",
+      "properties": {
+        "@id": "way/109978328",
+        "highway": "tertiary",
+        "name": "Dr. Aksamita",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:name": "cuzk:km",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1015208,
+            49.9492267
+          ],
+          [
+            14.1013507,
+            49.9487782
+          ],
+          [
+            14.1008666,
+            49.9485534
+          ],
+          [
+            14.1001792,
+            49.9482341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110261987",
+      "properties": {
+        "@id": "way/110261987",
+        "highway": "tertiary",
+        "name": "Župní",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:name": "cuzk:km",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0950136,
+            49.9515427
+          ],
+          [
+            14.0962534,
+            49.9511528
+          ],
+          [
+            14.0970433,
+            49.9508683
+          ],
+          [
+            14.0975023,
+            49.9507179
+          ],
+          [
+            14.0987287,
+            49.9504386
+          ],
+          [
+            14.0997886,
+            49.9500273
+          ],
+          [
+            14.0999798,
+            49.9499804
+          ],
+          [
+            14.1009635,
+            49.9498001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109978326",
+      "properties": {
+        "@id": "way/109978326",
+        "highway": "tertiary",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0907482,
+            49.9524307
+          ],
+          [
+            14.0910264,
+            49.9523511
+          ],
+          [
+            14.0915733,
+            49.9522566
+          ],
+          [
+            14.0925964,
+            49.9521376
+          ],
+          [
+            14.0942235,
+            49.9518045
+          ],
+          [
+            14.0950136,
+            49.9515427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37689681",
+      "properties": {
+        "@id": "way/37689681",
+        "highway": "residential",
+        "name": "nám. 9. května",
+        "source:name": "cuzk:km",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1009635,
+            49.9498001
+          ],
+          [
+            14.1018172,
+            49.9496686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109978324",
+      "properties": {
+        "@id": "way/109978324",
+        "highway": "service",
+        "name": "nám. 9. května",
+        "source": "survey; uhul:ortofoto",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1016762,
+            49.9492938
+          ],
+          [
+            14.1017553,
+            49.9494446
+          ],
+          [
+            14.1018172,
+            49.9496686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400640961",
+      "properties": {
+        "@id": "way/400640961",
+        "highway": "residential",
+        "name": "nám. 9. května",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1016762,
+            49.9492938
+          ],
+          [
+            14.1015208,
+            49.9492267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30960625",
+      "properties": {
+        "@id": "way/30960625",
+        "highway": "tertiary",
+        "name": "U Vápenice",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0736816,
+            49.9550751
+          ],
+          [
+            14.0738785,
+            49.9550097
+          ],
+          [
+            14.0740849,
+            49.9549748
+          ],
+          [
+            14.0742188,
+            49.955023
+          ],
+          [
+            14.0743564,
+            49.9551092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109975699",
+      "properties": {
+        "@id": "way/109975699",
+        "highway": "tertiary",
+        "name": "Tyršova",
+        "ref": "11533",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0736816,
+            49.9550751
+          ],
+          [
+            14.0737818,
+            49.9552406
+          ],
+          [
+            14.0737974,
+            49.9554688
+          ],
+          [
+            14.0737964,
+            49.9555053
+          ],
+          [
+            14.0737882,
+            49.9556735
+          ],
+          [
+            14.0737649,
+            49.9558238
+          ],
+          [
+            14.0737482,
+            49.9558982
+          ],
+          [
+            14.0737208,
+            49.9559661
+          ],
+          [
+            14.0736498,
+            49.956101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158873580",
+      "properties": {
+        "@id": "way/158873580",
+        "bicycle": "yes",
+        "highway": "residential",
+        "name": "U Nádraží",
+        "source": "gps;uhul:ortofoto;bing:bing",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0733214,
+            49.957621
+          ],
+          [
+            14.073225,
+            49.9576197
+          ],
+          [
+            14.0730805,
+            49.9576238
+          ],
+          [
+            14.0729862,
+            49.9576261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233423094",
+      "properties": {
+        "@id": "way/233423094",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Tyršova",
+        "source": "survey; uhul:ortofoto",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0731907,
+            49.9568351
+          ],
+          [
+            14.0736498,
+            49.956101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338550312",
+      "properties": {
+        "@id": "way/338550312",
+        "highway": "tertiary",
+        "name": "Tyršova",
+        "source": "survey; uhul:ortofoto",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0728029,
+            49.9574824
+          ],
+          [
+            14.0729173,
+            49.9572911
+          ],
+          [
+            14.0729852,
+            49.9571681
+          ],
+          [
+            14.0731907,
+            49.9568351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389636576",
+      "properties": {
+        "@id": "way/389636576",
+        "highway": "residential",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0738265,
+            49.9575123
+          ],
+          [
+            14.0739331,
+            49.9574561
+          ],
+          [
+            14.0741155,
+            49.957459
+          ],
+          [
+            14.0747141,
+            49.9576046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393237005",
+      "properties": {
+        "@id": "way/393237005",
+        "bicycle": "yes",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Koněpruská",
+        "ref": "11533",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0724067,
+            49.9576716
+          ],
+          [
+            14.0724216,
+            49.9575971
+          ],
+          [
+            14.0724806,
+            49.9575324
+          ],
+          [
+            14.0725744,
+            49.9574876
+          ],
+          [
+            14.0726878,
+            49.95747
+          ],
+          [
+            14.0728029,
+            49.9574824
+          ],
+          [
+            14.072889,
+            49.9575155
+          ],
+          [
+            14.0729526,
+            49.9575654
+          ],
+          [
+            14.0729862,
+            49.9576261
+          ],
+          [
+            14.0729847,
+            49.9576951
+          ],
+          [
+            14.0729445,
+            49.9577591
+          ],
+          [
+            14.0728712,
+            49.9578094
+          ],
+          [
+            14.0727746,
+            49.9578394
+          ],
+          [
+            14.072647,
+            49.957843
+          ],
+          [
+            14.0725292,
+            49.9578113
+          ],
+          [
+            14.0724436,
+            49.9577503
+          ],
+          [
+            14.0724067,
+            49.9576716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284457",
+      "properties": {
+        "@id": "way/393284457",
+        "highway": "residential",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0736911,
+            49.9576173
+          ],
+          [
+            14.0738265,
+            49.9575123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284459",
+      "properties": {
+        "@id": "way/393284459",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "platform",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "@relations": [
+          {
+            "role": "platform_exit_only",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0746464,
+            49.9575499
+          ],
+          [
+            14.0748788,
+            49.9576054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393284460",
+      "properties": {
+        "@id": "way/393284460",
+        "highway": "residential",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0733214,
+            49.957621
+          ],
+          [
+            14.0734811,
+            49.9576479
+          ],
+          [
+            14.0736047,
+            49.9576382
+          ],
+          [
+            14.0736911,
+            49.9576173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281136655",
+      "properties": {
+        "@id": "way/281136655",
+        "highway": "tertiary",
+        "name": "Na Ratince",
+        "ref": "11530",
+        "source": "uhul:ortofoto",
+        "source:ref": "rsd_cr",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0743564,
+            49.9551092
+          ],
+          [
+            14.0744935,
+            49.9552838
+          ],
+          [
+            14.0747367,
+            49.9554856
+          ],
+          [
+            14.0749786,
+            49.9555879
+          ],
+          [
+            14.075898,
+            49.9555905
+          ],
+          [
+            14.0769293,
+            49.9556371
+          ],
+          [
+            14.0772744,
+            49.9556328
+          ],
+          [
+            14.0777548,
+            49.9555022
+          ],
+          [
+            14.0787862,
+            49.9551328
+          ],
+          [
+            14.0795275,
+            49.9548884
+          ],
+          [
+            14.0797441,
+            49.954884
+          ],
+          [
+            14.080035,
+            49.9549755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879884",
+      "properties": {
+        "@id": "node/2750879884",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Koněprusy,, jeskyně",
+        "public_transport": "stop_position",
+        "source": "knowledge;bing:bing",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0724231,
+          49.916217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879894",
+      "properties": {
+        "@id": "node/2750879894",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Koněprusy,,u hřbitova I",
+        "public_transport": "stop_position",
+        "source": "knowledge;bing:bing",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0710542,
+          49.9250161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628955469",
+      "properties": {
+        "@id": "node/1628955469",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tetín,,U Rozvodny",
+        "public_transport": "stop_position",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0876336,
+          49.953628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1257627934",
+      "properties": {
+        "@id": "node/1257627934",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tetín",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "source": "survey",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1017553,
+          49.9494446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928039586",
+      "properties": {
+        "@id": "node/3928039586",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "1",
+        "public_transport": "stop_position",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0747141,
+          49.9576046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628955804",
+      "properties": {
+        "@id": "node/1628955804",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Beroun,,Na Ratince",
+        "public_transport": "stop_position",
+        "source": "knowledge;bing:bing",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0787862,
+          49.9551328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3456462428",
+      "properties": {
+        "@id": "node/3456462428",
+        "public_transport": "platform",
+        "source": "knowledge;bing:bing",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0788605,
+          49.9551541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879884",
+      "properties": {
+        "@id": "node/2750879884",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0724231,
+          49.916217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2750879894",
+      "properties": {
+        "@id": "node/2750879894",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0710542,
+          49.9250161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628955469",
+      "properties": {
+        "@id": "node/1628955469",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0876336,
+          49.953628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1257627934",
+      "properties": {
+        "@id": "node/1257627934",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1017553,
+          49.9494446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928039586",
+      "properties": {
+        "@id": "node/3928039586",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0747141,
+          49.9576046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628955804",
+      "properties": {
+        "@id": "node/1628955804",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6013662,
+            "reltags": {
+              "from": "Koněprusy,,jeskyně",
+              "name": "BUS C17: Koněprusy,,jeskyně => Beroun,autobusové nádraží",
+              "network": "SID Středočeská integrovaná doprava",
+              "operator": "PROBO BUS a.s.",
+              "public_transport:version": "2",
+              "ref": "C17",
+              "ref:network": "C17",
+              "route": "bus",
+              "to": "Beroun,autobusové nádraží",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0787862,
+          49.9551328
+        ]
+      }
+    }
+  ]
+}
